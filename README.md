@@ -3,6 +3,7 @@
 #
 ### <p> <h1 align="center">MöbiusXXF 🌓</h1> </p>
 
+### ![](https://komarev.com/ghpvc/?username=mobiusxxf&color=yellow)
 
 <!--
 **MobiusXXF/MobiusXXF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
