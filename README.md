@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-[![GitHub Streak](https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=dark)](https://git.io/streak-stats)
