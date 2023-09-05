@@ -9,6 +9,13 @@
     <a href="https://anthonyadesanwo.netlify.app" alt="Website" title="Website">
       <img src="https://img.shields.io/badge/Website-%23211e1e?style=for-the-badge&logo=homebridge&logoColor=white&&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
     <img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=yellow&style=for-the-badge&label=profile+views">
+
+<hr>
+  <p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AWS%20and%20Azure%20Certified;Terraform%20Certified;Experience%20Coding%20With%20Python;Aspiring%20DevOps%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=500&size=22" /></a>
+</p>
     <hr>
   </div>
 </div>
@@ -29,6 +36,7 @@
 <div align="center">
   <img style="" src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47pab12g1727lmij1jk90wgpsmt576y7u5j8gduiiy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   <h1>👨🏾‍💻 HELLO WORLD!</h1>
+  
   
 </div>
 
