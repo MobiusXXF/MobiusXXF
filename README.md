@@ -7,7 +7,7 @@
     <a href="https://linkedin.com/in/anthonyadesanwo" alt="Linkedin" title="Linkedin">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanthonyadesanwo"/></a>
     <a href="https://anthonyadesanwo.netlify.app" alt="Website" title="Website">
-      <img src="https://img.shields.io/badge/Website-%23211e1e?style=for-the-badge&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
+      <img src="https://img.shields.io/badge/Website-%23211e1e?style=for-the-badge&logo=homebridge&logoColor=white&&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
     <img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=yellow&style=for-the-badge&label=profile+views">
     <hr>
   </div>
