@@ -9,7 +9,7 @@
     <a href="https://anthonyadesanwo.netlify.app" alt="Website" title="Website">
       <img src="https://img.shields.io/badge/Website-%23211e1e?style=for-the-badge&logo=homebridge&logoColor=white&&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
     <img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=yellow&style=for-the-badge&label=profile+views">
-
+  </div>
   <hr>
   <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
