@@ -13,8 +13,10 @@
     
   </div>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=highcontrast&border_radius=5&fire=EB5454"></a>
-<!--
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=highcontrast&border_radius=5&fire=EB5454"></a>
+</div>
+  <!--
 **MobiusXXF/MobiusXXF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 </div>
