@@ -14,13 +14,13 @@
   </div>
 </div>
 
-<p align="center">
+<div align="center">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=AWS%20and%20Azure%20Certified;Terraform%20Certified;Experience%20Coding%20With%20Python;Aspiring%20DevOps%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=500&size=22">
   </a>
-</p>
-
+</div>
+<hr>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=highcontrast&border_radius=5&card_width=1000&fire=EB5454"></a>
 </div>
