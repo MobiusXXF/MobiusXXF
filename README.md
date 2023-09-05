@@ -10,12 +10,14 @@
       <img src="https://img.shields.io/badge/Website-%23211e1e?style=for-the-badge&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
     <img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=yellow&style=for-the-badge&label=profile+views">
     <hr>
-    
   </div>
+</div>
+
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=highcontrast&border_radius=5&fire=EB5454"></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=highcontrast&border_radius=5&card_width=1000&fire=EB5454"></a>
 </div>
+
   <!--
 **MobiusXXF/MobiusXXF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
