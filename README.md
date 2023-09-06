@@ -56,6 +56,7 @@ My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan.
 -->
 #
 
+![blog post workflow](https://github.com/MobiusXXF/MobiusXXF/actions/workflows/blog-post-workflow.yml/badge.svg)
 ### 📕 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Just Getting Started](https://dev.to/thedevant/just-getting-started-48p5)
