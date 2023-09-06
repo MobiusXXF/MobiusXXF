@@ -24,7 +24,7 @@
 
 <hr>
 
-<div align="center">
+<div id="stats" align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mobiusxxf.vercel.app/?user=MobiusXXF&theme=highcontrast&border_radius=5&card_width=1000&fire=EB5454"></a>
 </div>
 
@@ -40,7 +40,7 @@
   <img style="width:400px;" src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47pab12g1727lmij1jk90wgpsmt576y7u5j8gduiiy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   <!-- <h3>👨🏾‍💻 HELLO WORLD!</h3>
   <hr style="width:10px;"> -->
-  <h1>👨🏾‍💻 >> "HELLO WORLD!"</h1>
+  <h1 id="about-me">👨🏾‍💻 >> "HELLO WORLD!"</h1>
   
 </div>
 
