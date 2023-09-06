@@ -37,7 +37,7 @@
 <hr>
 
 <div align="center">
-  <img style="" src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47pab12g1727lmij1jk90wgpsmt576y7u5j8gduiiy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img style="width:400px;" src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47pab12g1727lmij1jk90wgpsmt576y7u5j8gduiiy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   <!-- <h3>👨🏾‍💻 HELLO WORLD!</h3>
   <hr style="width:10px;"> -->
   <h1>👨🏾‍💻 >> "HELLO WORLD!"</h1>
