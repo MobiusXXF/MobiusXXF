@@ -58,5 +58,6 @@ My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan.
 
 ### 📕 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Just Getting Started](https://dev.to/thedevant/just-getting-started-48p5)
 - [Just Getting Started](https://medium.com/@adesanwoa/just-getting-started-362ea0386bd3?source=rss-751ffb910c4f------2)
 <!-- BLOG-POST-LIST:END -->
