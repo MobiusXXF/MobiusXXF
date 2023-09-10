@@ -45,7 +45,7 @@
 </div>
 
 ###
-> My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.
+My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.
 
 - 🔭 I’m currently working on The <a href="https://terraform.cloudprojectbootcamp.com/">Terraform Beginner Bootcamp</a> with <a href="https://app.exampro.co/student/journey/terraform-cpb">ExamPro.co</a> from Andrew Brown and Co.
 
