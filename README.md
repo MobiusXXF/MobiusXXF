@@ -2,9 +2,9 @@
   <a href=""><img align="left" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/filter/enzana/100/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a>
   <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a>
   <h1 align="center">TheDevAnt <a href="https://aniwave.to/watch/hunter-x-hunter-2011.295/ep-1">🌓</a></h1>
-  <div align="center">
+  <!--<div align="center">
     <a href="https://anthonyadesanwo.netlify.app"><img style="height:70px;width:70px;" src="https://ucarecdn.com/ab51f756-8a07-426e-be82-f94ce10bdf93/-/preview/500x500/-/quality/smart_retina/-/format/auto/"></a>
-  </div>
+  </div>-->
   <div align="center">
     <a href="https://linkedin.com/in/anthonyadesanwo" alt="Linkedin" title="Linkedin">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanthonyadesanwo"/></a>
