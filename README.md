@@ -1,6 +1,6 @@
 <div id="header">
-  <a href=""><img align="left" src="https://ucarecdn.com/cc10cf74-7434-4cea-9571-0bbc50bbd6f3/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="200px" width="200px"></a>
- <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a>
+  <a href=""><img align="left" src="https://ucarecdn.com/cc10cf74-7434-4cea-9571-0bbc50bbd6f3/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="180px" width="180px"></a>
+ <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="180px" width="180px"></a>
   <h1 align="center"><a href="" ><img src="https://ucarecdn.com/eac9e361-739e-47fd-9afe-59e232a03b56/-/preview/500x500/-/quality/smart_retina/-/format/auto/" height="31.65px" width="243.5px"></a></h1>
   <!--<div align="center">
     <a href="https://anthonyadesanwo.netlify.app"><img style="height:70px;width:70px;" src="https://ucarecdn.com/ab51f756-8a07-426e-be82-f94ce10bdf93/-/preview/500x500/-/quality/smart_retina/-/format/auto/"></a>
