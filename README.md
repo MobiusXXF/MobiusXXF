@@ -1,5 +1,5 @@
 <div id="header">
-  <a href=""><img align="left" src="https://ucarecdn.com/97d01c68-01e4-445e-ad83-0e4c3e00c3da/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="200px" width="200px"></a>
+  <a href=""><img align="left" src="https://ucarecdn.com/cc10cf74-7434-4cea-9571-0bbc50bbd6f3/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="200px" width="200px"></a>
  <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a>
   <h1 align="center"><a href="" ><img src="https://ucarecdn.com/eac9e361-739e-47fd-9afe-59e232a03b56/-/preview/500x500/-/quality/smart_retina/-/format/auto/" height="31.65px" width="243.5px"></a></h1>
   <!--<div align="center">
@@ -18,7 +18,7 @@
 <div align="center">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=AWS%20and%20Azure%20Certified;Terraform%20Certified;Experience%20Coding%20with%20Python;Aspiring%20DevOps%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=500&size=22">
+      <img src="https://readme-typing-svg.demolab.com/?lines=AWS%20and%20Azure%20Certified;Terraform%20Certified;Experience%20Coding%20with%20Python;Aspiring%20DevOps%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=500&size=22">
     </a>
 </div>
 
