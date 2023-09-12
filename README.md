@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanthonyadesanwo"/></a>
     <a href="https://anthonyadesanwo.netlify.app" alt="Website" title="Website">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=homebridge&logoColor=white&&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=lightgrey&style=for-the-badge&label=Visitors:"></a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=lightgrey&style=for-the-badge&label=Visitors"></a>
   </div>
 </div>
 
