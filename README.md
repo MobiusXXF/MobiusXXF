@@ -6,9 +6,9 @@
     <a href="https://anthonyadesanwo.netlify.app"><img style="height:70px;width:70px;" src="https://ucarecdn.com/ab51f756-8a07-426e-be82-f94ce10bdf93/-/preview/500x500/-/quality/smart_retina/-/format/auto/"></a>
   </div>-->
   <div align="center">
-    <a href="https://linkedin.com/in/anthonyadesanwo" alt="Linkedin" title="Linkedin">
+    <a href="https://linkedin.com/in/anthonyadesanwo" target="_blank" alt="Linkedin" title="Linkedin">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanthonyadesanwo"/></a>
-    <a href="https://anthonyadesanwo.netlify.app" alt="Website" title="Website">
+    <a href="https://anthonyadesanwo.netlify.app" target="_blank" alt="Website" title="Website">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=homebridge&logoColor=white&&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
     <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mobiusxxf&color=lightgrey&style=for-the-badge&label=Visitors"></a>
   </div>
@@ -47,7 +47,7 @@
 ###
 My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.
 
-- 🔭 I’m currently working on The <a href="https://terraform.cloudprojectbootcamp.com/">Terraform Beginner Bootcamp</a> with <a href="https://app.exampro.co/student/journey/terraform-cpb">ExamPro.co</a> from Andrew Brown and Co.
+- 🔭 I’m currently working on The <a href="https://terraform.cloudprojectbootcamp.com/" target="_blank">Terraform Beginner Bootcamp</a> with <a href="https://app.exampro.co/student/journey/terraform-cpb" target="_blank">ExamPro.co</a> from Andrew Brown and Co.
 
 - 👨🏾‍💻 Always excited to learn and embrace new technology and concepts. In love with the pursuit of knowledge.
 
