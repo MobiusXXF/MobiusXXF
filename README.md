@@ -6,7 +6,7 @@
     <a href="https://anthonyadesanwo.netlify.app"><img style="height:70px;width:70px;" src="https://ucarecdn.com/ab51f756-8a07-426e-be82-f94ce10bdf93/-/preview/500x500/-/quality/smart_retina/-/format/auto/"></a>
   </div>-->
   <div align="center">
-    <a href="https://linkedin.com/in/anthonyadesanwo" alt="Linkedin" title="Linkedin">
+    <a href="https://external.ink?to=/linkedin.com/in/anthonyadesanwo" alt="Linkedin" title="Linkedin">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fanthonyadesanwo"/></a>
     <a href="https://anthonyadesanwo.netlify.app" alt="Website" title="Website">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=homebridge&logoColor=white&&link=https%3A%2F%2Fanthonyadesanwo.netlify.app"/></a>
