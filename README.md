@@ -1,4 +1,3 @@
-<base target="_blank">
 <div id="header">
   <a href=""><img align="left" src="https://ucarecdn.com/cc10cf74-7434-4cea-9571-0bbc50bbd6f3/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="200px" width="200px"></a>
  <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a>
