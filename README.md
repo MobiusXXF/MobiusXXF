@@ -34,15 +34,15 @@
 </div>
 
 
-<hr>
+<hr id="image">
 
-<div align="center">
+<a href="#image"><div align="center">
   <img style="width:400px;" src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47pab12g1727lmij1jk90wgpsmt576y7u5j8gduiiy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   <!-- <h3>👨🏾‍💻 HELLO WORLD!</h3>
   <hr style="width:10px;"> -->
   <h1 id="about-me">👨🏾‍💻 >> "HELLO WORLD!"</h1>
   
-</div>
+</div></>a>
 
 ###
 My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.
