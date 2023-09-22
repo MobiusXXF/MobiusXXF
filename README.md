@@ -47,13 +47,15 @@
 ###
 My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.
 
-- 🔭 I’m currently working on The <a href="https://terraform.cloudprojectbootcamp.com/">Terraform Beginner Bootcamp</a> with <a href="https://app.exampro.co/student/journey/terraform-cpb">ExamPro.co</a> from Andrew Brown and Co.
+- 🔭 I’m currently working on the <a href="https://github.com/MobiusXXF/terraform-beginner-bootcamp-2023">Terraform Beginner Bootcamp</a> and <a href="https://github.com/MobiusXXF/aws-bootcamp-cruddur-2023">AWS Project Bootcamp</a> with <a href="https://www.exampro.co">ExamPro.co</a> from Andrew Brown and Co.
+  - Also working through the longer AWS Project Bootcamp 
 
 - 👨🏾‍💻 Always excited to learn and embrace new technology and concepts. In love with the pursuit of knowledge.
 
-- 🌱 I’m currently learning AWS Solutions for well-architected, robust and secure cloud environments.
-<!--- 📫 How to reach me: https://dev.to/thedevant https://medium.com/@adesanwoa https://codesandbox.io/u/mobiusxxf https://www.instagram.com/thedevant.og 
--->
+- 🌱 I’m currently studying for the AWS Solutions Architect Associate to understand more about well-architected, robust and secure cloud environments.
+
+- 👋🏾 Socials: [dev.to](https://dev.to/thedevant) | [medium](https://medium.com/@adesanwoa) | [codesandbox](https://codesandbox.io/u/mobiusxxf) | [codepen](https://codepen.io/MobiusXXF) | [instagram](https://www.instagram.com/thedevant.og)
+
 #
 
 ### 📕 Blog Posts:
