@@ -45,7 +45,7 @@
 </div>
 
 ###
-My name is Anthony Adesanwo, an aspiring DevOps Engineer and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.
+<h3 align="center">My name is Anthony Adesanwo, an aspiring <code>DevOps Engineer</code> and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.</h3>
 
 - 🔭 I’m currently working on the <a href="https://github.com/MobiusXXF/terraform-beginner-bootcamp-2023">Terraform Beginner Bootcamp</a> and <a href="https://github.com/MobiusXXF/aws-bootcamp-cruddur-2023">AWS Cloud Project Bootcamp</a> with <a href="https://www.exampro.co">ExamPro.co</a> from Andrew Brown &Co. 
 
