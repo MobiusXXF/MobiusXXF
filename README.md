@@ -53,7 +53,7 @@
 
 - 🌱 I’m currently studying for the AWS Solutions Architect Associate to understand more about well-architected, robust and secure cloud environments.
 
-- 👋🏾 Socials: [dev.to](https://dev.to/thedevant) | [medium](https://medium.com/@adesanwoa) | [codesandbox](https://codesandbox.io/u/mobiusxxf) | [codepen](https://codepen.io/MobiusXXF) | [instagram](https://www.instagram.com/thedevant.og)
+- 👋🏾 Socials: [dev.to](https://dev.to/thedevant) | [medium](https://medium.com/@adesanwoa) | [codesandbox](https://codesandbox.io/u/mobiusxxf) | [codepen](https://codepen.io/MobiusXXF) | [instagram](https://www.instagram.com/the.devant)
 
 #
 
