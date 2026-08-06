@@ -1,6 +1,6 @@
 <div id="header">
-  <a href=""><img align="left" src="https://ucarecdn.com/cc10cf74-7434-4cea-9571-0bbc50bbd6f3/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="200px" width="200px"></a>
- <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a>
+  <!-- <a href=""><img align="left" src="https://ucarecdn.com/cc10cf74-7434-4cea-9571-0bbc50bbd6f3/-/preview/3000x3000/-/quality/smart_retina/-/format/auto/" height="200px" width="200px"></a> -->
+ <!-- <a href=""><img align="right" src="https://ucarecdn.com/cd619ec1-2b7a-4861-85fb-21e38552ce42/-/flip/-/rotate/180/-/preview/3000x3000/-/border_radius/50p/-/format/auto/" height="200px" width="200px"></a> -->
   <h3 align="center"><a href="" ><img src="https://ucarecdn.com/eac9e361-739e-47fd-9afe-59e232a03b56/-/preview/500x500/-/quality/smart_retina/-/format/auto/" height="31.65px" width="243.5px"></a></h3>
   <!--<div align="center">
     <a href="https://anthonyadesanwo.netlify.app"><img style="height:70px;width:70px;" src="https://ucarecdn.com/ab51f756-8a07-426e-be82-f94ce10bdf93/-/preview/500x500/-/quality/smart_retina/-/format/auto/"></a>
@@ -36,15 +36,6 @@
 
 <hr>
 
-<div align="center">
-  <img style="width:400px;" src="https://media2.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47pab12g1727lmij1jk90wgpsmt576y7u5j8gduiiy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-  <!-- <h3>👨🏾‍💻 HELLO WORLD!</h3>
-  <hr style="width:10px;"> -->
-  <h1 id="about-me">👨🏾‍💻
-  
-</div>
-
-###
 <h4 align="center">My name is Anthony Adesanwo, an aspiring <code>DevOps Engineer</code> and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.</h4>
 
 <!-- - 🔭 I’m currently working on the <a href="https://github.com/MobiusXXF/terraform-beginner-bootcamp-2023">Terraform Beginner Bootcamp</a> and <a href="https://github.com/MobiusXXF/aws-bootcamp-cruddur-2023">AWS Cloud Project Bootcamp</a> with <a href="https://www.exampro.co">ExamPro.co</a> from Andrew Brown &Co. --> 
