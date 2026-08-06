@@ -15,12 +15,7 @@
 </div>
 
 ###
-<div align="center">
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=AWS%20and%20Azure%20Certified;Terraform%20Certified;Experience%20Coding%20with%20Python;Aspiring%20DevOps%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=891204&vCenter=true&pause=500&size=22">
-    </a>
-</div>
+
 
 <hr>
 
@@ -36,15 +31,17 @@
 
 <hr>
 
-<h4 align="center">My name is Anthony Adesanwo, an aspiring <code>DevOps Engineer</code> and avid Jiu-jitsu fan. Previously working in a fast-paced hospital environment, applying critical thinking and clinical reasoning. To now pursuing my curiosity in the cloud space and CI/CD pipeline/operation.</h4>
-
+<h4 align="center">My name is Anthony Adesanwo, an <code>MSci Computer Science</code> student and avid Jiu-jitsu fan.</h4>
+<h4 align="center">Previously worked in fast-paced hospital environments, applying critical thinking and clinical reasoning. Now pursuing my curiosity in Cloud and DevOps Engineering.</h4>
+<br>
 <!-- - 🔭 I’m currently working on the <a href="https://github.com/MobiusXXF/terraform-beginner-bootcamp-2023">Terraform Beginner Bootcamp</a> and <a href="https://github.com/MobiusXXF/aws-bootcamp-cruddur-2023">AWS Cloud Project Bootcamp</a> with <a href="https://www.exampro.co">ExamPro.co</a> from Andrew Brown &Co. --> 
 
-- 👨🏾‍💻 Always excited to learn and embrace new technology and concepts. In love with the pursuit of knowledge.
+- 👨🏾‍💻 Always excited to learn and embrace new technology and concepts.
 
 - 🌱 I’m currently studying for the AWS Solutions Architect Associate to understand more about well-architected, robust and secure cloud environments.
 
-- 👋🏾 Socials: [dev.to](https://dev.to/thedevant) | [medium](https://medium.com/@adesanwoa) | [codesandbox](https://codesandbox.io/u/mobiusxxf) | [codepen](https://codepen.io/MobiusXXF) | [instagram](https://www.instagram.com/the.devant)
+<!-- - 👋🏾 Socials: [dev.to](https://dev.to/thedevant) | [medium](https://medium.com/@adesanwoa) | [codesandbox](https://codesandbox.io/u/mobiusxxf) | [codepen](https://codepen.io/MobiusXXF) | [instagram](https://www.instagram.com/the.devant) -->
+- 👋🏾 Socials: [medium](https://medium.com/@adesanwoa) | [instagram](https://www.instagram.com/the.devant)
 
 #
 
