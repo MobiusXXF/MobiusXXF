@@ -46,5 +46,9 @@
 
 ### 📕 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Just Getting Started](https://medium.com/@adesanwoa/just-getting-started-362ea0386bd3?source=rss-751ffb910c4f------2)
+- [Day 6/365 of becoming a Cloud Engineer #AWS #student #terraform #cloudengineer #devops](https://www.youtube.com/shorts/5yM0y4_0xlw)
+- [Day 5/365 of becoming a Cloud Engineer #AWS #student #terraform #cloudengineer #devops](https://www.youtube.com/shorts/Hl9hpBfbLy4)
+- [4/365: Study Session. #AWS #student #terraform #cloudengineer #devops](https://www.youtube.com/shorts/qwws9ky8f18)
+- [3/365. #AWS #student #terraform #cloudengineer #devops](https://www.youtube.com/shorts/m0zoedWif0A)
+- [2/365. #AWS #student #terraform #cloudengineer #devops](https://www.youtube.com/shorts/4VeomaJQbPo)
 <!-- BLOG-POST-LIST:END -->
