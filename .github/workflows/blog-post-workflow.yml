@@ -16,4 +16,4 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
-          feed_list: "https://dev.to/feed/thedevant,https://medium.com/feed/@adesanwoa"
+          feed_list: "https://www.youtube.com/@TheDevAnt,https://medium.com/feed/@adesanwoa"
