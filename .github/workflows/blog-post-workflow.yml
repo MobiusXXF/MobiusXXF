@@ -16,4 +16,4 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCN1OM5fbVygDUQqeXL3r2LA,https://medium.com/feed/@adesanwoa"
+          feed_list: "https://medium.com/feed/@adesanwoa"
