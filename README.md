@@ -30,7 +30,7 @@
 
 <hr>
 
-<h4 align="center">My name is Anthony Adesanwo, an <code>MSci Computer Science</code> student and avid Jiu-jitsu fan.</h4>
+<h3 align="center">My name is Anthony Adesanwo, an <code>MSci Computer Science</code> student and avid Jiu-jitsu fan.</h3>
 <h4 align="center">Previously worked in fast-paced hospital environments, applying critical thinking and clinical reasoning. Now pursuing my curiosity in Cloud and DevOps Engineering.</h4>
 <br>
 <!-- - 🔭 I’m currently working on the <a href="https://github.com/MobiusXXF/terraform-beginner-bootcamp-2023">Terraform Beginner Bootcamp</a> and <a href="https://github.com/MobiusXXF/aws-bootcamp-cruddur-2023">AWS Cloud Project Bootcamp</a> with <a href="https://www.exampro.co">ExamPro.co</a> from Andrew Brown &Co. --> 
