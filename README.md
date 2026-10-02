@@ -28,7 +28,8 @@
 <h3 align="center">My name is Anthony Adesanwo, a <code>BSc Computer Science</code> student and avid Jiu-jitsu fan.</h3>
 <h4 align="center">Previously worked in fast-paced hospital environments, applying critical thinking and clinical reasoning. Now pursuing my curiosity in Cloud and DevOps Engineering.</h4>
 <br>
- - 🔭 I’m currently working on a mobile game for IOS and Android.   
+
+- 🔭 I’m currently working on a mobile game for IOS and Android.   
 
 - 👨🏾‍💻 Always excited to learn and embrace new technology and concepts.
 
